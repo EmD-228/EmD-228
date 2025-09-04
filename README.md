@@ -1,3 +1,97 @@
+# 👋 Hello, I'm Denyo Kokou
+
+## 🚀 Flutter Developer & UI/UX Designer
+
+Passionate about creating smooth and intuitive mobile experiences, I am a **Flutter Developer** and **UI/UX Designer** with 5 years of experience. I love transforming complex ideas into performant applications that truly meet user needs.
+
+### 🛠️ Technologies & Skills
+
+#### 💻 Development
+- **Flutter** • **Dart** • **Firebase** • **JavaScript** • **TypeScript**
+- **HTML** • **CSS** • **NuxtJS** • **GetX** • **Bloc Pattern**
+
+#### 🎨 Design & UX
+- **Figma** • **Adobe XD** • **Adobe Illustrator** • **Adobe Photoshop**
+- **UI/UX Design** • **Prototyping** • **Wireframing** • **Design Systems**
+
+#### 🤖 Artificial Intelligence
+- **Gemini API** • **OpenAI API** • **Google ML Kit** (Vision, NLP)
+- **AI Models** (Recommendation, Vision) • **AI API Integration**
+
+#### 📊 Analytics & Product Intelligence
+- **Google Analytics** • **Amplitude** • **PostHog** • **CustomerIO** • **AppFlyer**
+
+#### 🔧 Tools & Methodologies
+- **Git** • **GitHub** • **Xcode** • **Trello** • **Agile Project Management**
+- **API Integration** • **Payment Gateway Integration** • **Google Maps Platform**
+- **LiveKit (WebRTC)** • **Augmented Reality (AR)**
+
+### 🎯 Key Projects
+
+#### 🎪 **KLUMER** - Event Platform
+*Development & Maintenance (2020-2024)*
+- **Flutter** • **Firebase** • **Google ML Kit** • **Adobe XD**
+- Complete ecosystem for event organizers
+- Advanced QR code scanning via Google ML Kit
+- National payment integration (CINETPAY, ERETU) and international (Stripe/Paypal)
+
+#### 👗 **DRESSLIKE** - Sustainable Fashion
+*Freelance Development (2024-2025)*
+- **Flutter** • **Firebase** • **Gemini API** • **Figma**
+- Wardrobe management and clothing exchange application
+- AI recommendation engine for item matching
+- UX optimization via analytics (Amplitude, PostHog, GA)
+
+#### 📞 **CALL** - AI Video Conferencing
+*Personal Project (In Progress)*
+- **Flutter** • **LiveKit** • **Gemini API** • **OpenAI API**
+- AI-enhanced video conferencing platform
+- Automatic transcription and meeting summaries
+
+#### 🎯 **SMARTEVENT** - Event Matchmaking
+*Personal Project (In Progress)*
+- **Flutter** • **Firebase** • **Google Maps** • **AR**
+- B2B/B2C application for conferences and trade shows
+- Geolocation and Augmented Reality for intelligent networking
+
+#### 🤝 **SONA** - Item Donation
+*Social Project (Personal)*
+- **Flutter** • **Firebase** • **Figma**
+- Social application to facilitate donation of unused items
+- Promotion of circular economy and local mutual aid
+
+### 📚 Training & Certifications
+
+- **Flutter BLOC Pattern and Firebase** - Udemy
+- **Clean Architecture In Flutter3** - Udemy  
+- **Flutter BLOC State Management & Firebase** - Udemy
+- **The Git & GitHub Bootcamp** - Udemy
+- **UI UX with Adobe XD and Figma** - Udemy
+- **Adobe Illustrator Ultimate Guide** - Udemy
+
+### 🌍 Languages
+
+- **🇬🇧 English** : Professional
+- **🇫🇷 French** : Native
+
+### 📫 Contact
+
+- 📧 **Email** : denyok.emmanuel@gmail.com
+- 📱 **Phone** : (+228) 9289 8123
+- 🌐 **Website** : http://eodsc.com
+- 💼 **LinkedIn** : [kokou-denyo](https://linkedin.com/in/kokou-denyo)
+- 📍 **Location** : Lomé, Togo
+
+### 🎯 Currently
+
+Freelance Mobile Developer, always open to exciting opportunities to put my skills at the service of innovative projects within dynamic teams.
+
+---
+
+*"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
+
+---
+
 # 👋 Salut, je suis Denyo Kokou
 
 ## 🚀 Développeur Flutter & UI/UX Designer
@@ -98,7 +192,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning ...
 - 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
+- 🤔 I'm looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
