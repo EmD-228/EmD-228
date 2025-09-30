@@ -91,6 +91,14 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
+
+```txt
+Dart    34 hrs 51 mins  ████████████████████████▓   99.08 %
+JSON    11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+YAML    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
