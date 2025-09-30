@@ -90,6 +90,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 ---
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
+### Salut, je suis [Votre Nom] 👋
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 <!--
