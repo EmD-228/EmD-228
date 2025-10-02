@@ -91,7 +91,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
@@ -136,16 +136,17 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     33 hrs 53 mins      █████████████████████████   99.11 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Dart                     32 hrs 1 min        █████████████████████████   98.73 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-edomatch                 34 hrs 11 mins      █████████████████████████   100.00 % 
+edomatch                 32 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -165,7 +166,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2025 22:06:50 UTC
+ Last Updated on 02/10/2025 00:24:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
