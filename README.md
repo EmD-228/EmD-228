@@ -91,8 +91,6 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2039%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.0%20thousand%20lines%20of%20code-blue)
@@ -136,17 +134,17 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     32 hrs 1 min        █████████████████████████   98.73 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Dart                     28 hrs 54 mins      █████████████████████████   98.71 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-edomatch                 32 hrs 26 mins      █████████████████████████   100.00 % 
+edomatch                 29 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -166,7 +164,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 22:06:25 UTC
+ Last Updated on 03/10/2025 00:24:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
