@@ -91,7 +91,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
@@ -136,17 +136,16 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     17 hrs 9 mins       █████████████████████████   98.83 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Dart                     17 hrs 46 mins      ████████████████████████░   97.45 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-edomatch                 17 hrs 21 mins      █████████████████████████   100.00 % 
+edomatch                 18 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -166,7 +165,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 22:06:53 UTC
+ Last Updated on 08/10/2025 00:24:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
