@@ -91,7 +91,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
@@ -136,15 +136,16 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     22 hrs 39 mins      █████████████████████████   98.50 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Dart                     24 hrs 30 mins      ████████████████████████░   94.87 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 46 mins      ████████████████████████░   95.89 % 
+Chrome                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🐱‍💻 Projects: 
-edomatch                 22 hrs 59 mins      █████████████████████████   100.00 % 
+edomatch                 25 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -164,7 +165,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 22:06:26 UTC
+ Last Updated on 11/10/2025 00:23:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
