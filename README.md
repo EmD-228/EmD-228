@@ -91,7 +91,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
@@ -136,16 +136,16 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     24 hrs 30 mins      ███████████████████████░░   92.95 % 
-Other                    1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Dart                     25 hrs 51 mins      ██████████████████████░░░   87.81 % 
+Other                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 46 mins      ███████████████████████░░   93.95 % 
-Chrome                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+VS Code                  26 hrs 6 mins       ██████████████████████░░░   88.70 % 
+Chrome                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 
 🐱‍💻 Projects: 
-edomatch                 26 hrs 22 mins      █████████████████████████   100.00 % 
+edomatch                 29 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -165,7 +165,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 22:06:14 UTC
+ Last Updated on 13/10/2025 00:26:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
