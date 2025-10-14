@@ -91,9 +91,9 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.0%20thousand%20lines%20of%20code-blue)
 
@@ -168,7 +168,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 12:11:56 UTC
+ Last Updated on 14/10/2025 14:08:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
