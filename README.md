@@ -91,7 +91,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
@@ -136,16 +136,19 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     25 hrs 51 mins      ██████████████████████░░░   87.81 % 
-Other                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Dart                     30 hrs 40 mins      ████████████████████░░░░░   79.00 % 
+Other                    7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 6 mins       ██████████████████████░░░   88.70 % 
-Chrome                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+VS Code                  31 hrs 2 mins       ████████████████████░░░░░   79.93 % 
+Chrome                   7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 
 🐱‍💻 Projects: 
-edomatch                 29 hrs 26 mins      █████████████████████████   100.00 % 
+edomatch                 38 hrs 44 mins      █████████████████████████   99.76 % 
+intl_phone_number_input  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+flutter_local_notificatio0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -165,7 +168,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 22:07:14 UTC
+ Last Updated on 14/10/2025 00:24:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
