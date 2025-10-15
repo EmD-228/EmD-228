@@ -91,7 +91,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 *"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -136,17 +136,19 @@ Sunday                   77 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lome
 
 💬 Programming Languages: 
-Dart                     30 hrs 40 mins      ████████████████████░░░░░   79.00 % 
-Other                    7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Dart                     28 hrs 3 mins       ██████████████████░░░░░░░   71.03 % 
+Other                    10 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 2 mins       ████████████████████░░░░░   79.93 % 
-Chrome                   7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+VS Code                  28 hrs 2 mins       ██████████████████░░░░░░░   70.99 % 
+Chrome                   11 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.01 % 
 
 🐱‍💻 Projects: 
-edomatch                 38 hrs 44 mins      █████████████████████████   99.76 % 
+edomatch                 39 hrs 11 mins      █████████████████████████   99.22 % 
+OneSignal-Flutter-SDK    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 intl_phone_number_input  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 flutter_local_notificatio0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
@@ -168,7 +170,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 22:07:21 UTC
+ Last Updated on 15/10/2025 00:25:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
