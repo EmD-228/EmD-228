@@ -93,7 +93,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841.7%20thousand%20lines%20of%20code-blue)
 
@@ -171,7 +171,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2025 06:10:35 UTC
+ Last Updated on 21/10/2025 08:10:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
