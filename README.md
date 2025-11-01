@@ -79,7 +79,7 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 
 - 📧 **Email** : denyok.emmanuel@gmail.com
 - 📱 **Phone** : (+228) 9289 8123
-- 🌐 **Website** : http://eodsc.com
+- 🌐 **Website** : http://vr-ai.co
 - 💼 **LinkedIn** : [kokou-denyo](https://linkedin.com/in/kokou-denyo)
 - 📍 **Location** : Lomé, Togo
 
