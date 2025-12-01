@@ -534,3 +534,4 @@ refactor: minor cleanup @ 2025-11-28T16:12:28+0000
 chore: housekeeping @ 2025-11-28T18:36:35+0000
 docs: log update @ 2025-11-28T21:00:42+0000
 chore: housekeeping @ 2025-12-01T09:00:07+0000
+docs: update notes @ 2025-12-01T10:20:14+0000
