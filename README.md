@@ -90,6 +90,7 @@ UI/UX design • Prototyping • Wireframing • Design Systems
 - **Email**: denyok.emmanuel@gmail.com
 - **Phone**: (+228) 9289 8123
 - **Website**: http://vr-ai.co
+- **Portfolio**: https://emd-228.github.io/my-portfolio/
 - **LinkedIn**: [kokou-denyo](https://linkedin.com/in/kokou-denyo)
 - **GitHub**: [EmD-228](https://github.com/EmD-228)
 - **Location**: Lomé, Togo
