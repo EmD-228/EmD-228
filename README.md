@@ -1,95 +1,105 @@
 # 👋 Hello, I'm Denyo Kokou
 
+[![Role](https://img.shields.io/badge/Role-Senior%20Flutter%20%26%20Product%20Designer-blue)](https://www.linkedin.com/in/kokou-denyo)
+[![Location](https://img.shields.io/badge/Base-Lom%C3%A9%2C%20Togo-orange)](https://www.google.com/maps/place/Lom%C3%A9)
+[![Availability](https://img.shields.io/badge/Availability-Open%20to%20full--time%20%26%20consulting-success)](#-currently)
+[![Email](https://img.shields.io/badge/Email-denyok.emmanuel%40gmail.com-red)](mailto:denyok.emmanuel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EmD--228-black?logo=github)](https://github.com/EmD-228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kokou--denyo-blue?logo=linkedin)](https://linkedin.com/in/kokou-denyo)
+
 ## 🚀 Mobile App Developer (Flutter) & Product Designer
 
-Experienced **Flutter Developer** and **UI/UX Designer** specializing in building scalable mobile applications for enterprise clients. I deliver high-performance solutions that drive business growth and enhance user engagement across diverse industries.
+Experienced **Flutter Developer** and **UI/UX Designer** building scalable, high-performance mobile apps for enterprise clients. I focus on measurable impact (acquisition, engagement, retention) and fast delivery with solid UX.
 
 ### 🛠️ Technologies & Skills
 
 #### 💻 Development
-- **Flutter** • **Dart** • **Firebase** • **JavaScript** • **TypeScript**
-- **HTML** • **CSS** • **NuxtJS** • **GetX** • **Bloc Pattern**
+[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-5%2B%20yrs-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Firestore%20%7C%20Auth%20%7C%20Notifications-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
+[![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-Vision%20%7C%20NLP-4285F4?logo=google&logoColor=white)](https://developers.google.com/ml-kit)
+[![LiveKit](https://img.shields.io/badge/LiveKit-WebRTC-0A0A0A?logo=webrtc&logoColor=white)](https://livekit.io)
+[![Maps](https://img.shields.io/badge/Google%20Maps-Platform-34A853?logo=googlemaps&logoColor=white)](https://developers.google.com/maps)
+[![JS/TS](https://img.shields.io/badge/JavaScript%20%7C%20TypeScript-React%20%7C%20Next.js%20%7C%20Vue.js-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/)
+[![State](https://img.shields.io/badge/State-Bloc%20%7C%20GetX-7952B3)](#)
 
 #### 🎨 Design & UX
-- **Figma** • **Adobe XD** • **Adobe Illustrator** • **Adobe Photoshop**
-- **UI/UX Design** • **Prototyping** • **Wireframing** • **Design Systems**
+[![Figma](https://img.shields.io/badge/Figma-Design%20Systems%20%7C%20Prototyping-F24E1E?logo=figma&logoColor=white)](https://www.figma.com)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-Wireframes-FF61F6?logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-UI%20Assets-FF9A00?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Photoshop](https://img.shields.io/badge/Photoshop-Branding-31A8FF?logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+UI/UX design • Prototyping • Wireframing • Design Systems
 
-#### 🤖 Artificial Intelligence
-- **Gemini API** • **OpenAI API** • **Google ML Kit** (Vision, NLP)
-- **AI Models** (Recommendation, Vision) • **AI API Integration**
+#### 🤖 AI & Analytics
+[![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?logo=googlecloud&logoColor=white)](https://ai.google.dev/gemini-api)
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white)](https://platform.openai.com)
+[![Analytics](https://img.shields.io/badge/Analytics-Amplitude%20%7C%20PostHog%20%7C%20GA-0052CC?logo=googleanalytics&logoColor=white)](https://amplitude.com)
+[![Reco](https://img.shields.io/badge/AI-Recommendation%20%7C%20Vision%20%7C%20NLP-10b981)](#)
 
-#### 📊 Analytics & Product Intelligence
-- **Google Analytics** • **Amplitude** • **PostHog** • **CustomerIO** • **AppFlyer**
-
-#### 🔧 Tools & Methodologies
-- **Git** • **GitHub** • **Xcode** • **Trello** • **Agile Project Management**
-- **API Integration** • **Payment Gateway Integration** • **Google Maps Platform**
-- **LiveKit (WebRTC)** • **Augmented Reality (AR)**
+#### 🔧 Tools & Methods
+[![Git](https://img.shields.io/badge/Git-GitHub-black?logo=git&logoColor=white)](https://github.com/EmD-228)
+[![Xcode](https://img.shields.io/badge/Xcode-iOS%20builds-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Agile](https://img.shields.io/badge/Process-Agile%20%7C%20Scrum-0e9aa7)](#)
+[![Payments](https://img.shields.io/badge/API-Payments%20%7C%20Integrations-4a5568)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-In%20progress-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Trello](https://img.shields.io/badge/Trello%20%7C%20Jira-Project%20tracking-0052CC?logo=trello&logoColor=white)](https://trello.com)
+[![AR](https://img.shields.io/badge/AR-Explorations-7c3aed)](#)
 
 ### 🏢 Professional Experience
 
-#### 🎪 **KLUMER** - Event Management Company
-*Senior Flutter Developer & UI/UX Designer (2020-2024)*
-- **Technologies**: Flutter • Dart • Firebase • Google ML Kit • Adobe XD
-- **Role**: Lead developer for complete event management ecosystem
-- **Achievements**: 
-  - Built scalable mobile platform serving 10,000+ event organizers
-  - Implemented advanced QR code scanning system using Google ML Kit
-  - Integrated multiple payment gateways (CINETPAY, ERETU, Stripe, PayPal)
-  - Led UI/UX design for 5+ mobile applications
-  - Collaborated with cross-functional teams of 8+ developers
+#### 🚀 EDOMATCH — Lomé, Togo (Jul 2025 – Present)
+*Flutter Developer / UI-UX Designer*
+- Rebuilt Jobseeker space (5+ pages) with full UX overhaul; shipped new onboarding flow in 2 weeks.
+- Added advanced insights/analytics and performance fixes; upcoming gamification (XP, referral).
+- Stack: Flutter, Firebase, APIs, Slack, Jira, Agile.
 
-#### 👗 **DRESSLIKE** - Sustainable Fashion Startup
-*Freelance Flutter Developer & Product Designer (2024-2025)*
-- **Technologies**: Flutter • Firebase • Gemini API • Figma
-- **Role**: Full-stack mobile developer and product designer
-- **Achievements**:
-  - Developed wardrobe management and clothing exchange platform
-  - Built AI-powered recommendation engine for item matching
-  - Implemented comprehensive analytics system (Amplitude, PostHog, GA)
-  - Designed user-centered interface for 15,000+ active users
-  - Reduced user acquisition cost by 40% through UX optimization
+#### 👗 DRESSLIKE — France (Oct 2024 – Jun 2025)
+*Flutter Developer / Product Designer*
+- Led V2 redesign (Figma + Flutter), built **Smart Swap** AI recommendation engine and chat system.
+- Implemented analytics (Amplitude, PostHog, GA); 15,000+ active users; -40% acquisition cost.
+- Stack: Flutter, Firebase, Gemini API, Figma.
 
-#### 🚀 **Freelance Development Services**
-*Mobile App Developer & Consultant (2020-Present)*
-- **Clients**: 15+ companies across various industries
-- **Services**: Flutter development, UI/UX design, technical consulting
-- **Specializations**: 
-  - B2B and B2C mobile applications
-  - AI/ML integration and implementation
-  - Payment gateway integration
-  - Real-time communication systems (WebRTC)
-  - Augmented Reality (AR) applications
+#### 🎪 KLUMER — France (Mar 2021 – Dec 2024)
+*Senior Flutter Developer & UI/UX Designer*
+- Built full event platform: ticketing with QR scan, payments (CINETPAY, ERETU, Stripe, PayPal).
+- Delivered Kluchat (chat) and Klupic (photo/video sharing), voting system, organizer dashboards.
+- 10,000+ event organizers; Flutter, Firebase, Google ML Kit, Google Maps, Figma.
+
+#### 💻 LaTribu — France (Aug 2023 – Mar 2024)
+*Flutter Developer / UI-UX Designer*
+- Mobile e-learning app and UI/UX for web/mobile; prototypes shipped.
+- Stack: Flutter, React, Vibe Coding with AI.
+
+### 🌐 Web Projects (Designer) — VR-AI (Jan 2025 – Present)
+- Reworked Growl (LMS), AfFund (crowdfunding), Studio (dashboard), Portfolio — React/Next.js/Vue.js, Nano Banana.
+
+### 📱 Personal Projects
+- **SONA** (in progress): social app for item donations — Flutter, Firebase, Figma.
+- **Meetup** (pause): videoconference with LiveKit; Gemini/OpenAI integration planned.
+- **Smartevent** (pause): B2B/B2C event matchmaking with geolocation/AR.
 
 ### 📚 Training & Certifications
-
-- **Flutter BLOC Pattern and Firebase** - Udemy
-- **Clean Architecture In Flutter3** - Udemy  
-- **Flutter BLOC State Management & Firebase** - Udemy
-- **The Git & GitHub Bootcamp** - Udemy
-- **UI UX with Adobe XD and Figma** - Udemy
-- **Adobe Illustrator Ultimate Guide** - Udemy
+- **MongoDB Academy** (in progress)
+- Udemy: Clean Architecture in Flutter3 • Flutter BLOC Pattern & Firebase • Flutter BLOC State Management & Firebase • The Git & GitHub Bootcamp • UI/UX with Adobe XD & Figma • Adobe Illustrator Ultimate Guide • Learn Graphic Design using Canva
 
 ### 🌍 Languages
-
-- **🇬🇧 English** : Professional
-- **🇫🇷 French** : Native
+- **🇫🇷 French**: Native
+- **🇬🇧 English**: Professional
 
 ### 📫 Contact
-
-- 📧 **Email** : denyok.emmanuel@gmail.com
-- 📱 **Phone** : (+228) 9289 8123
-- 🌐 **Website** : http://vr-ai.co
-- 💼 **LinkedIn** : [kokou-denyo](https://linkedin.com/in/kokou-denyo)
-- 📍 **Location** : Lomé, Togo
+- 📧 **Email**: denyok.emmanuel@gmail.com
+- 📱 **Phone**: (+228) 9289 8123
+- 🌐 **Website**: http://vr-ai.co
+- 💼 **LinkedIn**: [kokou-denyo](https://linkedin.com/in/kokou-denyo)
+- 🐙 **GitHub**: [EmD-228](https://github.com/EmD-228)
+- 📍 **Location**: Lomé, Togo
 
 ### 🎯 Currently
-
-**Senior Mobile App Developer (Flutter) & Product Designer** - Available for full-time positions and consulting opportunities. Seeking to join innovative companies where I can leverage my expertise in mobile development and design to drive product success and user engagement.
+**Senior Mobile App Developer (Flutter) & Product Designer** — available for full-time roles and consulting. Interested in AI integrations, analytics-driven growth, and ambitious mobile rebuilds.
 
 ---
 
-*"Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
+*“Mobile experience creator first and foremost, I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive.”*
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%201%20min-blue)
 
@@ -110,42 +120,6 @@ Experienced **Flutter Developer** and **UI/UX Designer** specializing in buildin
 > 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
-
-```text
-🌞 Morning                679 commits         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-🌆 Daytime                1549 commits        ████████████████░░░░░░░░░   63.98 % 
-🌃 Evening                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   462 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Tuesday                  324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                516 commits         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Thursday                 536 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Friday                   456 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Saturday                 45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Sunday                   82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lome
-
-💬 Programming Languages: 
-Dart                     29 hrs 42 mins      ████████████████████░░░░░   81.44 % 
-Other                    4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-YAML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-
-🔥 Editors: 
-Cursor                   30 hrs 43 mins      █████████████████████░░░░   84.24 % 
-Chrome                   5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
 edomatch                 32 hrs 25 mins      ██████████████████████░░░   88.91 % 
