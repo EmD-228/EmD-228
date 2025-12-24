@@ -120,31 +120,8 @@ UI/UX design • Prototyping • Wireframing • Design Systems
  > 
 > 11 Private Repositories 
  > 
-**I'm an Early Bird** 
 
-Projects: 
-edomatch                 32 hrs 25 mins      ██████████████████████░░░   88.91 % 
-sona                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Formations               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-getstream_agents_example 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-cgv-apnd-fwv             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     18 repos            ███████████████████░░░░░░   75.00 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/EmD-228/EmD-228/master/assets/bar_graph.png)
+<figure><embed src="https://wakatime.com/share/@8f4e5608-2c83-4a89-b47d-ebce53b99012/a4ac1712-e9fc-4dab-92b0-104bd355c443.svg"></embed></figure>
 
 
  Last Updated on 30/10/2025 12:11:33 UTC
