@@ -108,36 +108,7 @@ UI/UX design • Prototyping • Wireframing • Design Systems
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-843.7%20thousand%20lines%20of%20code-blue)
 
-**My GitHub Data** 
-
-> 117.3 kB Used in GitHub's Storage 
- > 
-> 426 Contributions in the Year 2025
- > 
-> Opted to Hire
- > 
-> 9 Public Repositories 
- > 
-> 11 Private Repositories 
- > 
-
-<figure><embed src="https://wakatime.com/share/@8f4e5608-2c83-4a89-b47d-ebce53b99012/a4ac1712-e9fc-4dab-92b0-104bd355c443.svg"></embed></figure>
+## My contributions from all privates projects
 
 
- Last Updated on 30/10/2025 12:11:33 UTC
-<!--END_SECTION:waka-->
-
-<!--
-**EmD-228/EmD-228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8f4e5608-2c83-4a89-b47d-ebce53b99012/9176d2e1-09cb-4560-849e-006798269c42.png" /></a>
