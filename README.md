@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=280&section=header&text=Kokou%20DENYO&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%26%20Product%20Designer&descAlignY=58&descAlign=50&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:1E61F0,100:7C3AED&height=280&section=header&text=Kokou%20DENYO&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%26%20Product%20Designer&descAlignY=58&descAlign=50&descSize=20" width="100%" alt="header"/>
 
 <a href="https://github.com/EmD-228">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=700&lines=Crafting+pixel-perfect+Flutter+apps;Designing+experiences+that+convert;Building+from+Lom%C3%A9%2C+Togo+%F0%9F%87%B9%F0%9F%87%AC;Open+to+full-time+%26+consulting" alt="Typing intro"/>
@@ -65,7 +65,7 @@ motto:       "Mobile experience creator first.
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmD-228&hide_title=true&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420&title_color=02569B&icon_color=22C55E" width="100%"/>
+<img src="https://github-readme-stats.hackclub.dev/api?username=EmD-228&hide_title=true&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420&title_color=02569B&icon_color=22C55E" width="100%"/>
 
 <br/><br/>
 
@@ -127,7 +127,7 @@ motto:       "Mobile experience creator first.
 <table>
 <tr>
 <td>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EmD-228&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=02569B&icon_color=22C55E" />
+<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=EmD-228&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=02569B&icon_color=22C55E" />
 </td>
 <td>
 <img height="180" src="https://streak-stats.demolab.com/?user=EmD-228&theme=tokyonight&hide_border=true&background=1a1b27&ring=02569B&fire=F24E1E&currStreakLabel=22C55E" />
@@ -135,7 +135,7 @@ motto:       "Mobile experience creator first.
 </tr>
 <tr>
 <td colspan="2">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmD-228&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&title_color=02569B" />
+<img width="100%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=EmD-228&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&title_color=02569B" />
 </td>
 </tr>
 </table>
@@ -146,8 +146,15 @@ motto:       "Mobile experience creator first.
 ### 🐍 Watch my contributions get eaten
 <img alt="snake" src="https://raw.githubusercontent.com/EmD-228/EmD-228/output/github-contribution-grid-snake-dark.svg" />
 
-### 🏆 Trophy Cabinet
-<img src="https://github-profile-trophy.vercel.app/?username=EmD-228&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+### 🏆 Highlights
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF-5%2B%20years%20Flutter-02569B?style=for-the-badge&labelColor=181717" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80-15%2B%20apps%20shipped-22C55E?style=for-the-badge&labelColor=181717" />
+<img src="https://img.shields.io/badge/%F0%9F%91%A5-25K%2B%20users%20reached-7C3AED?style=for-the-badge&labelColor=181717" />
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%92%B0-%E2%88%9240%25%20acquisition%20cost-F24E1E?style=for-the-badge&labelColor=181717" />
+<img src="https://img.shields.io/badge/%E2%9A%A1-Multi--stack%20product%20builder-1E61F0?style=for-the-badge&labelColor=181717" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8-Design%20%2B%20Code-FF61F6?style=for-the-badge&labelColor=181717" />
 
 </div>
 
@@ -375,6 +382,6 @@ Particularly excited about **AI integrations**, **analytics-driven growth**, and
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E61F0,100:02569B&height=120&section=footer" width="100%"/>
 
 </div>
