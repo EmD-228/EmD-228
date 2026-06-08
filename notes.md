@@ -1487,3 +1487,4 @@ chore: daily sync @ Mon Jun  8 22:30:32 GMT 2026
 chore: remove stale entries @ Mon Jun  8 23:52:11 GMT 2026
 docs: clarify usage example @ Mon Jun  8 23:52:17 GMT 2026
 chore: bump activity log @ Mon Jun  8 23:52:22 GMT 2026
+refactor: collapse redundant lines @ Mon Jun  8 23:52:28 GMT 2026
