@@ -1495,3 +1495,4 @@ chore: routine maintenance @ Tue Jun  9 22:29:47 GMT 2026
 docs: log update @ Tue Jun  9 22:29:48 GMT 2026
 chore: remove stale entries @ Tue Jun  9 23:56:33 GMT 2026
 refactor: simplify activity logging @ Tue Jun  9 23:56:41 GMT 2026
+chore: tidy notes formatting @ Tue Jun  9 23:56:46 GMT 2026
