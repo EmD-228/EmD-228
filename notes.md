@@ -1724,3 +1724,4 @@ chore: daily sync @ Tue Jun 30 22:25:56 GMT 2026
 docs: clarify usage example @ Tue Jun 30 23:52:24 GMT 2026
 docs: clarify usage example @ Tue Jun 30 23:52:29 GMT 2026
 fix: minor formatting @ Tue Jun 30 23:52:35 GMT 2026
+refactor: simplify activity logging @ Tue Jun 30 23:52:41 GMT 2026
