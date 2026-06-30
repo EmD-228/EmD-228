@@ -1715,3 +1715,4 @@ chore: daily sync @ Mon Jun 29 22:22:18 GMT 2026
 docs: log update @ Mon Jun 29 22:22:19 GMT 2026
 fix: typo in log entry @ Mon Jun 29 23:48:37 GMT 2026
 docs: clarify usage example @ Mon Jun 29 23:48:42 GMT 2026
+refactor: minor cleanup @ Tue Jun 30 22:25:51 GMT 2026
