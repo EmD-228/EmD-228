@@ -342,7 +342,7 @@ B2B/B2C event matchmaking with geolocation & AR experiences.
 <td align="center" width="20%">
   <a href="tel:+22892898123">
     <img src="https://img.shields.io/badge/Phone-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
-    <sub>+228 92 89 81 23</sub>
+    <sub>+228 9289 8123</sub>
   </a>
 </td>
 <td align="center" width="20%">
