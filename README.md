@@ -24,7 +24,7 @@
 <a href="mailto:denyok.emmanuel@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/kokou-denyo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/EmD-228"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="http://vr-ai.co"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://emd-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://emd-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-FF61F6?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 <br/><br/>
@@ -346,7 +346,7 @@ B2B/B2C event matchmaking with geolocation & AR experiences.
   </a>
 </td>
 <td align="center" width="20%">
-  <a href="http://vr-ai.co">
+  <a href="https://emd-portfolio.vercel.app/en">
     <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /><br/>
     <sub>vr-ai.co</sub>
   </a>
