@@ -21,11 +21,12 @@
 </p>
 
 <!-- Action buttons -->
+
 <a href="mailto:denyok.emmanuel@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/kokou-denyo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/EmD-228"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://emd-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://emd-portfolio.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-FF61F6?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+<a href="https://nuelde.com/en"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://nuelde.com/en"><img src="https://img.shields.io/badge/Portfolio-FF61F6?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -44,19 +45,20 @@
 <td width="60%" valign="top">
 
 ```yaml
-name:        Kokou DENYO
-role:        Senior Flutter Developer & Product Designer
-location:    Lomé, Togo  🇹🇬
-experience:  5+ years building production mobile apps
-focus:       AI integrations · analytics-driven growth
-             · ambitious mobile rebuilds
-languages:   French (native) · English (professional)
-motto:       "Mobile experience creator first.
-              I combine Flutter + UI/UX to build
-              apps that are both functional & intuitive."
+name: Kokou DENYO
+role: Senior Flutter Developer & Product Designer
+location: Lomé, Togo  🇹🇬
+experience: 5+ years building production mobile apps
+focus: AI integrations · analytics-driven growth
+  · ambitious mobile rebuilds
+languages: French (native) · English (professional)
+motto: "Mobile experience creator first.
+  I combine Flutter + UI/UX to build
+  apps that are both functional & intuitive."
 ```
 
 **🎯 What I do best**
+
 - Ship **scalable Flutter apps** with measurable impact on acquisition, engagement & retention
 - Design **end-to-end product experiences** — from Figma to App Store
 - Wire **AI features** (Gemini, OpenAI, ML Kit, recommendation engines) into real product flows
@@ -86,15 +88,19 @@ motto:       "Mobile experience creator first.
 <div align="center">
 
 ### 📱 Mobile & Frontend
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,vue,ts,js,html,css,tailwind&theme=dark" />
 
 ### ☁️ Backend, Cloud & APIs
+
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,nodejs,graphql,supabase,googlecloud&theme=dark" />
 
 ### 🎨 Design & Prototyping
+
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps&theme=dark" />
 
 ### 🤖 AI & Analytics
+
 <a href="https://ai.google.dev/gemini-api"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
 <a href="https://platform.openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 <a href="https://developers.google.com/ml-kit"><img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
@@ -103,12 +109,14 @@ motto:       "Mobile experience creator first.
 <a href="#"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /></a>
 
 ### 🧩 State, Realtime & Maps
+
 <img src="https://img.shields.io/badge/Bloc-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" />
 <a href="https://livekit.io"><img src="https://img.shields.io/badge/LiveKit-WebRTC-0A0A0A?style=for-the-badge&logo=webrtc&logoColor=white" /></a>
 <a href="https://developers.google.com/maps"><img src="https://img.shields.io/badge/Google%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 
 ### ⚙️ Tools, Methods & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,xcode,jira&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0e9aa7?style=for-the-badge" />
@@ -141,9 +149,11 @@ motto:       "Mobile experience creator first.
 </table>
 
 ### 📈 Contribution Activity
+
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EmD-228&theme=tokyo-night&hide_border=true&area=true&line=02569B&point=F24E1E" />
 
 ### 🐍 Watch my contributions get eaten
+
 <img alt="snake" src="https://raw.githubusercontent.com/EmD-228/EmD-228/output/github-contribution-grid-snake-dark.svg" />
 
 ### 🏆 Highlights
@@ -239,6 +249,7 @@ motto:       "Mobile experience creator first.
 <td width="33%" align="center" valign="top">
 
 ### 🤝 SONA
+
 <sub><kbd>in progress</kbd></sub>
 
 Social app for item donations — give what you no longer need, find what you need.
@@ -251,6 +262,7 @@ Social app for item donations — give what you no longer need, find what you ne
 <td width="33%" align="center" valign="top">
 
 ### 🎥 Meetup
+
 <sub><kbd>paused</kbd></sub>
 
 Videoconference built on **LiveKit**, with Gemini/OpenAI integration planned.
@@ -263,6 +275,7 @@ Videoconference built on **LiveKit**, with Gemini/OpenAI integration planned.
 <td width="33%" align="center" valign="top">
 
 ### 🎪 Smartevent
+
 <sub><kbd>paused</kbd></sub>
 
 B2B/B2C event matchmaking with geolocation & AR experiences.
@@ -282,16 +295,16 @@ B2B/B2C event matchmaking with geolocation & AR experiences.
 
 <div align="center">
 
-| Provider | Track | Status |
-|---|---|:---:|
-| 🍃 **MongoDB Academy** | Database design & aggregation | 🟡 In progress |
-| 🎯 **Udemy** | Clean Architecture in Flutter 3 | ✅ |
-| 🎯 **Udemy** | Flutter BLOC Pattern & Firebase | ✅ |
-| 🎯 **Udemy** | Flutter BLOC State Management & Firebase | ✅ |
-| 🎯 **Udemy** | The Git & GitHub Bootcamp | ✅ |
-| 🎨 **Udemy** | UI/UX with Adobe XD & Figma | ✅ |
-| 🎨 **Udemy** | Adobe Illustrator Ultimate Guide | ✅ |
-| 🎨 **Udemy** | Graphic Design with Canva | ✅ |
+| Provider               | Track                                    |     Status     |
+| ---------------------- | ---------------------------------------- | :------------: |
+| 🍃 **MongoDB Academy** | Database design & aggregation            | 🟡 In progress |
+| 🎯 **Udemy**           | Clean Architecture in Flutter 3          |       ✅       |
+| 🎯 **Udemy**           | Flutter BLOC Pattern & Firebase          |       ✅       |
+| 🎯 **Udemy**           | Flutter BLOC State Management & Firebase |       ✅       |
+| 🎯 **Udemy**           | The Git & GitHub Bootcamp                |       ✅       |
+| 🎨 **Udemy**           | UI/UX with Adobe XD & Figma              |       ✅       |
+| 🎨 **Udemy**           | Adobe Illustrator Ultimate Guide         |       ✅       |
+| 🎨 **Udemy**           | Graphic Design with Canva                |       ✅       |
 
 </div>
 
@@ -346,13 +359,13 @@ B2B/B2C event matchmaking with geolocation & AR experiences.
   </a>
 </td>
 <td align="center" width="20%">
-  <a href="https://emd-portfolio.vercel.app/en">
+  <a href="https://nuelde.com/en">
     <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /><br/>
     <sub>vr-ai.co</sub>
   </a>
 </td>
 <td align="center" width="20%">
-  <a href="https://emd-portfolio.vercel.app/en">
+  <a href="https://nuelde.com/en">
     <img src="https://img.shields.io/badge/Portfolio-FF61F6?style=for-the-badge&logo=githubpages&logoColor=white" /><br/>
     <sub>my-portfolio</sub>
   </a>
@@ -369,6 +382,7 @@ B2B/B2C event matchmaking with geolocation & AR experiences.
 <br/>
 
 ### 💡 Currently
+
 **Senior Mobile App Developer (Flutter) & Product Designer** — available for **full-time** roles and **consulting**.<br/>
 Particularly excited about **AI integrations**, **analytics-driven growth**, and **ambitious mobile rebuilds**.
 
@@ -378,7 +392,7 @@ Particularly excited about **AI integrations**, **analytics-driven growth**, and
 
 <div align="center">
 
-> *"Mobile experience creator first and foremost — I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."*
+> _"Mobile experience creator first and foremost — I combine my Flutter development and UI/UX design skills to build applications that are not only functional, but also intuitive."_
 
 <br/>
 
